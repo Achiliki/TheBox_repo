@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/TB/Scenes/Izan_Scn_Main_Menu.unity
     guid: 70b493ebaad696a4b9afad95c290cc1c
   - enabled: 1
-    path: Assets/TB/Scenes/Escena_Javi.unity
+    path: Assets/TB/Scenes/Javi_Scn.unity
     guid: caf7be3921f82394ea4a1528911758f8
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
