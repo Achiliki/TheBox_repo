@@ -119,6 +119,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &82850199
 GameObject:
   m_ObjectHideFlags: 0
@@ -2584,6 +2585,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: -90.19, z: 0}
+=======
+>>>>>>> dev
 --- !u!1 &1271369612
 GameObject:
   m_ObjectHideFlags: 0
@@ -2594,7 +2597,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1271369614}
   - component: {fileID: 1271369613}
+<<<<<<< HEAD
   - component: {fileID: 1271369615}
+=======
+>>>>>>> dev
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -2682,6 +2688,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1271369615
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3719,6 +3726,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: -0.384, z: 0}
+=======
+>>>>>>> dev
 --- !u!1 &1784841679
 GameObject:
   m_ObjectHideFlags: 0
@@ -3730,7 +3739,10 @@ GameObject:
   - component: {fileID: 1784841682}
   - component: {fileID: 1784841681}
   - component: {fileID: 1784841680}
+<<<<<<< HEAD
   - component: {fileID: 1784841683}
+=======
+>>>>>>> dev
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -3779,7 +3791,11 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
+<<<<<<< HEAD
   field of view: 76
+=======
+  field of view: 60
+>>>>>>> dev
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -3805,12 +3821,18 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1784841679}
   serializedVersion: 2
+<<<<<<< HEAD
   m_LocalRotation: {x: 0.70710474, y: 0.0017031655, z: -0.0017031655, w: 0.70710474}
   m_LocalPosition: {x: -0.2, y: 7.5, z: -0.03}
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: -10}
+>>>>>>> dev
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 90, y: 3.132, z: 2.856}
 --- !u!114 &1784841683
 MonoBehaviour:
@@ -4361,12 +4383,16 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c555e11d592d087419ce36ded665c42d, type: 3}
+=======
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> dev
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1784841682}
   - {fileID: 1271369614}
+<<<<<<< HEAD
   - {fileID: 240870273}
   - {fileID: 818810076}
   - {fileID: 1526583793}
@@ -4403,3 +4429,5 @@ SceneRoots:
   - {fileID: 878329907}
   - {fileID: 648494953}
   - {fileID: 574272527754444811}
+=======
+>>>>>>> dev
